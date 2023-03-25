@@ -120,7 +120,7 @@ client.
 
 ## Installation
 
-ft_printf requires gcc or any other c compiler
+minitalk requires gcc or any other c compiler
 
 ```sh
 Make
