@@ -38,7 +38,7 @@ useful during your defence. Indeed, during defence, you are free to use your tes
 and/or the tests of the peer you are evaluating.
 - Submit your work to your assigned git repository. Only the work in the git repository will be graded. If Deepthought is assigned to grade your work, it will be done
 
-# Project instructions
+## Project instructions
 - Name your executable files client and server.
 - You have to turn in a Makefile which will compile your source files. It must not
 relink.
@@ -64,7 +64,7 @@ functions:
 ◦ usleep
 ◦ exit
 
-# Mandatory part
+## Mandatory part
 
 You must create a communication program in the form of a client and a server.
 - The server must be started first. After its launch, it has to print its PID.
@@ -104,7 +104,7 @@ Using the libtool command is forbidden.
 - %X Prints a number in hexadecimal (base 16) uppercase format.
 - %% Prints a percent sign.
 
-# Bonus part
+## Bonus part
 ##### Bonus list:
 - The server acknowledges every message received by sending back a signal to the
 client.
