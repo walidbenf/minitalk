@@ -121,6 +121,6 @@ Make
 ```
 ## Important 
 This project was made on Mac OS you may encounter problems on other OS.\
-This is the new subject,my project is pretty old i do it some years ago it's not exactly the same
+This is the new subject, I did it a few years ago, it may not be exactly the same.
 
 
