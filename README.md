@@ -2,9 +2,9 @@
 ## Summary: 
 The purpose of this project is to code a small data exchange program using UNIX signals.
 
-![Build Status](https://app.travis-ci.com/travis-ci/travis-web.svg?branch=master)
+![Build Status](https://img.shields.io/badge/build-passing-success?style=flat&logo=appveyor)
 
-![](notes.png)
+![](https://img.shields.io/badge/note-125%2F100-success?style=flat&logo=appveyor)
 
 
 ## Common Instructions
