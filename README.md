@@ -1,5 +1,6 @@
 # minitalk
-### The purpose of this project is to code a small data exchange program using UNIX signals.
+## Summary: 
+The purpose of this project is to code a small data exchange program using UNIX signals.
 
 ![Build Status](https://app.travis-ci.com/travis-ci/travis-web.svg?branch=master)
 
