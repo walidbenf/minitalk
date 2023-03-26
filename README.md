@@ -118,5 +118,6 @@ Make
 ./server(for the server)
 ./client (open a new terminal for client)
 ```
-
+## Important 
+This project was made on Mac OS you may encounter problems on other OS.
 
