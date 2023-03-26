@@ -120,5 +120,7 @@ Make
 ./client (open a new terminal for client)
 ```
 ## Important 
-This project was made on Mac OS you may encounter problems on other OS.
+This project was made on Mac OS you may encounter problems on other OS.\
+This is the new subject,my project is pretty old i do it some years ago it's not exactly the same
+
 
