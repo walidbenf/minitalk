@@ -75,7 +75,7 @@ You must create a communication program in the form of a client and a server.
 Once the string has been received, the server must print it.
 - The server has to display the string pretty quickly. Quickly means that if you think
 it takes too long, then it is probably too long.
-```sh
+```
 1 second for displaying 100 characters is way too much!
 ```
 
@@ -114,8 +114,8 @@ client.
 
 minitalk requires gcc or any other c compiler
 
-```sh
-Make
+```
+make
 ./server(for the server)
 ./client (open a new terminal for client)
 ```
